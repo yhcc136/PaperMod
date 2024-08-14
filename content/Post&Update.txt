@@ -1,0 +1,4 @@
+post:
+    hugo new posts/'postname.md'
+update:
+    git submodule update --remote --merge

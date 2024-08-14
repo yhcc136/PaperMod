@@ -1,0 +1,47 @@
+/* Custom styles added to demo */
+
+.twitter-tweet {
+    margin: auto;
+}
+
+iframe {
+    border-radius: var(--radius) !important;
+}
+
+.home-info ul {
+    padding-inline-start: 20px;
+}
+
+.entry-cover img {
+    border: 1px solid var(--border);
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: inherit;
+}
+
+.main {
+    padding-top: calc(var(--header-height) + var(--gap)/2);
+}
+
+.first-entry {
+    min-height: 200px;
+    margin: auto;
+}
+
+.chroma {
+    background-color: unset;
+}
+
+.post-content a,
+.toc a:hover {
+    box-shadow: 0 0px;
+}
+
+:root {
+    --code-block-bg: rgb(53, 53, 53);
+}
