@@ -121,10 +121,10 @@ params:
 
   #评论插件
   giscus:
-    repo: "yhcc136/PaperMod"
-    repoId: "R_kgDOMhWv1A"
-    category: "Announcements"
-    categoryId: "DIC_kwDOMhWv1M4Chgiq"
+    repo: "yhcc136/blog"
+    repoId: ""
+    category: ""
+    categoryId: ""
     mapping: "pathname"
     strict: "0"
     reactionsEnabled: "1"
