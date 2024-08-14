@@ -121,10 +121,10 @@ params:
 
   #评论插件
   giscus:
-    repo: "yhcc136/blog"
-    repoId: ""
-    category: ""
-    categoryId: ""
+    repo: "yhccme/blog"
+    repoId: "R_kgDOMjUQDQ"
+    category: "Announcements"
+    categoryId: "DIC_kwDOMjUQDc4ChnXb"
     mapping: "pathname"
     strict: "0"
     reactionsEnabled: "1"
