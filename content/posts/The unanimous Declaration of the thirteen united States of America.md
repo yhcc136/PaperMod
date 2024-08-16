@@ -7,7 +7,6 @@ tags: ["independence"]
 author: "yanhua"
 draft: false
 description: ""
-comments: false
 
 # cover:
 #     image: "<image path/url>" # image path/url
