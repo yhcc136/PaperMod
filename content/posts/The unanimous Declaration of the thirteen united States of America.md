@@ -3,7 +3,7 @@
 title : '独立宣言'
 aliases: ["The-Unanimous-Declaration-of-the-Thirteen-United-States-of-America"]
 date : 2024-08-09T22:08:59+08:00
-tags: ["independence"]
+tags: ["human"]
 author: "yanhua"
 draft: false
 description: ""
