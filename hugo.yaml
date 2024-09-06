@@ -58,8 +58,8 @@ params:
 
   label:
     text: "yanhua"
-    icon: /icon/128x128.ico
-    iconHeight: 35
+    # icon: /icon/128x128.ico
+    # iconHeight: 35
 
   # profile-mode
   profileMode:
